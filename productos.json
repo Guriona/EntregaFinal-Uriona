@@ -1,0 +1,7 @@
+[  
+    {"id": 1, "nombre": "cuaderno", "precio": 500},
+    {"id": 2, "nombre":"carpeta", "precio": 1000},
+    {"id": 3, "nombre": "lapicera", "precio": 50},
+    {"id": 4, "nombre": "mochila", "precio": 3000}
+]
+
